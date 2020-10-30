@@ -1,4 +1,4 @@
-module coredns-netbox-plugin
+module github.com/oz123/coredns-netbox-plugin
 
 go 1.14
 
