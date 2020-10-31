@@ -1,5 +1,6 @@
 module github.com/vmag/coredns-netbox-plugin
 
+replace coredns-netbox-plugin => github.com/vmag/coredns-netbox-plugin
 go 1.14
 
 require (
