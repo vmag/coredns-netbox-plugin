@@ -1,5 +1,7 @@
 module github.com/oz123/coredns-netbox-plugin
 
+replace coredns-netbox-plugin => github.com/oz123/coredns-netbox-plugin
+
 go 1.14
 
 require (
